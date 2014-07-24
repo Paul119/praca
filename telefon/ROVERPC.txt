@@ -1,0 +1,98 @@
+D³ugo szukaæ, kto mo¿e pomóc.
+
+Uwaga!
+Przed wykonaniem tej procedury, nale¿y zapisaæ wszystkie wa¿ne informacje z pamiêci komputera (numer) na kartê pamiêci flash lub na dysku twardym komputera stacjonarnego. Wyjmij kartê SIM i Flash.
+
+RoverPC P3, P3 + P1
+Przesuñ prze³¹cznik na tylnej ok³adce "off-on".
+
+RoverPC P4
+Zdejmij pokrywê baterii, obróæ prze³¹cznik "off-on". Tylna ok³adka.
+
+
+RoverPC P5, P5 +
+Jednoczeœnie nacisn¹æ pokrêt³o i "reset", zwolnij "Reset", a nastêpnie przejdŸ ko³o.
+
+RoverPC P6 (CCP)
+Wy³¹czone, jeœli pod³¹czony zewnêtrzny zasilacz. Usuñ obie baterie z KPCh, 15 minut do pod³¹czenia zewnêtrznego Ÿród³a zasilania, w³o¿yæ akumulator g³ówny, a potem z powrotem.
+
+RoverPC P6 (GG)
+Trzymaj "Reset przez 10 sekund. Reset zostanie przeprowadzone bez wczeœniejszego powiadomienia.
+
+RoverPC C6
+Wyjmij bateriê, przytrzymaj klawisz zakoñczenia i czerwony przycisk g³oœnoœci w dó³. Przytrzymaj je, aby w³o¿yæ bateriê.
+
+RoverPC P7
+Wyj¹æ akumulator, przesuñ prze³¹cznik na "Off", odczekaæ 1 minutê, przesuñ prze³¹cznik na "On". Powrót bateriê.
+
+RoverPC S1 - na dwa sposoby:
+1. Naciœnij i przytrzymaj przycisk "power" i "reset", a nastêpnie przycisk "Up" (regulacji g³oœnoœci).
+2. Drown kó³ka (dzia³ania), naciœnij i zwolnij "Reset", a nastêpnie przejdŸ ko³o w dó³, a menu na ekranie, aby wybraæ opcjê "Reset".
+
+RoverPC S2
+Wyjmij bateriê, a nastêpnie naciœnij twardy reset w lewym dolnym rogu.
+
+RoverPC X1 Sendo
+Na³adowaæ bateriê, nale¿y przytrzymaæ "5" kolej na smartphone.
+
+RoverPC M1
+Na³aduj bateriê lub pod³¹cz zewnêtrzny zasilacz!
+Naciœnij niebieski przycisk, joystick, i przytrzymanie jej kolej na smartphone.
+Po zresetowaniu menu Start - Ustawienia - Inne - ustawienia regionalne, wybierz jêzyk rosyjski.
+Po wyjœciu z menu, wiadomoœæ nale¿y wy³¹czyæ urz¹dzenie, aby zmiany zaczê³y obowi¹zywaæ.
+W niektórych przypadkach, nale¿y do³¹czyæ angielsku wy³¹czyæ urz¹dzenie, a nastêpnie w³¹czyæ jêzyka rosyjskiego i ponownie uruchomiæ urz¹dzenie.
+
+RoverPC M5
+Na³aduj bateriê lub pod³¹cz zewnêtrzny zasilacz!
+Wy³¹czyæ maszynê.
+Przytrzymaj prawy przycisk i *, naciœnij jednoczeœnie klawisz zasilania.
+
+RoverPC S5
+Na³aduj bateriê lub pod³¹cz zewnêtrzny zasilacz!
+Pierwszy sposób. W Start - Ustawienia-System-Reset.
+Drugi sposób. Przytrzymaj przycisk zasilania, naciœnij pióro RESET (Reset), przytrzymaæ przez 10 sekund.
+
+Trzecia metoda (tylko wtedy, gdy urz¹dzenie nie ³aduje siê system operacyjny, nie pamiêtasz has³a i check-s³owo) trzymaj¹c REC i kó³kiem w dó³, naciœnij przycisk Reset (Resetuj), d³ugopis,
+zwolniæ reset, po 2 sekundach.
+Po pojawieniu siê na ekranie menu, zwolnij REC i kó³ka przewijania.
+Menu "Przywróæ ustawienia" wybierz pierwsz¹ pozycjê (aktywne kolor niebieski), dodatkowo potwierdziæ resetowanie.
+Ten tryb pracy jest obs³uga i wskutek b³êdnych lub niew³aœciwych dzia³añ mo¿e spowodowaæ uszkodzenie urz¹dzenia.
+Jeœli widzisz Reset Menu "EBOOT" kranu (Reset) i powtórzyæ procedurê.
+
+RoverPC S6
+Dokrêciæ dwie dolne przyciski pobli¿u joysticka, naciskaj¹c i zwalniaj¹c reset, po kilku sekundach pozwoliæ dolny przycisk.
+
+RoverPC W5
+Instrukcja obs³ugi, str.142:
+Naciœnij przycisk zasilania, zadzwoñ i ponownie jednoczeœnie pierwsze wydanie
+przycisk ponownie, aby wyœwietliæ ekran, aby potwierdziæ, ¿e chcesz
+przywróciæ stan fabryczny. A nastêpnie naciœnij lewy przycisk,
+nastêpnie system bêdzie przywróciæ stan fabryczny i usuwanie danych i programów
+pamiêci. Dodatkowe programy musz¹ byæ zainstalowane ponownie.
+
+
+RoverPC G5, G6
+Na³aduj bateriê lub pod³¹cz zewnêtrzny zasilacz!
+Przytrzymaj przycisk zasilania, przycisk reset rysikiem (Reset).
+Potwierdziæ. (Kliknij zielony + czerwony "rura")
+
+RoverPC Q6
+Na³aduj bateriê lub pod³¹cz zewnêtrzny zasilacz!
+Przytrzymaj przycisk zasilania, przycisk reset rysikiem (Reset), a nastêpnie naciœnij i przytrzymaj klawisz zakoñczenia po³¹czenia czerwonej i przytrzymaj go przez oko³o 10 sekund. do menu "usun¹æ wszystkie dane i ustaw domyœlne",
+nastêpnie, aby potwierdziæ reset, naciœnij lewy przycisk i przytrzymaj go przez oko³o 2 sekundy.
+
+RoverPC R5
+Po w³¹czeniu naciœnij jednoczeœnie czerwone i zielone rurki i lewy przycisk programowy.
+
+
+RoverPC E5
+Pod³¹czyæ akumulator, przytrzymuj¹c przycisk aparatu i zatopienie kó³ko do przewijania, prze³¹cznik Push, po kilku sekundach, a nastêpnie naciœnij uwolnienie reset.
+
+RoverPC Q5
+Dokrêciæ na zielony przycisk i rejestrator, naciœnij przycisk reset.
+
+RoverPC N6
+Naciœnij przycisk reset, a nastêpnie po w³¹czeniu g³oœnoœæ do utopienia KEY (naciœnij œrodkowy).
+
+RoverPC N7
+Zainstaluj akumulator, a nastêpnie jednoczeœnie przytrzymaæ prawy klawisz funkcyjny (na red tube) + GPS + Power.

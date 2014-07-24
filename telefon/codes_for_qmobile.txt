@@ -1,0 +1,29 @@
+Q mobile all models test mode: Type 2945#*# on the main screen.
+
+IMEI (ALL): *#06#
+IMEI and SW (Q mobile 510): *#07#
+Software version (Q mobile B1200): *8375#
+Recount cheksum (Q mobile B1200): *6861#
+Factory test (B1200): #PWR 668
+Simlock menu (Q mobile B1200): 1945#*5101#
+Simlock menu (Q mobile 510W, 5200): 2945#*5101#
+Simlock menu (Q mobile 7020, 7010): 2945#*70001#
+Simlock menu (Q mobile 500, 600): 2947#*
+
+Qmobile-U81XX SPECIAL CODES
+Code to read phone version :
+- Phone without SIM
+- Enter 277634#*# or 47328545454#
+- Select 'SW Ver.info'
+Code to reset phone :
+- Phone without SIM
+- Enter 277634#*# or 47328545454#
+- Select 'Factory Reset'
+Code to enter UNLOCK MENU :
+- Phone wit SIM inside
+- Enter 2945#*88110#
+Test Menu 8330 : 637664#*#
+Test Menu 8180 V10a: 49857465454#
+Test Menu 8180 V11a: 492662464663#
+Test Menu 8130-8138: 47328545454#
+Test Menu 8110-8120: 277634#*#

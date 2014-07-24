@@ -1,0 +1,17 @@
+1. Back up your important files, and download PC Companion from here: http://www.sonymobile.com/gb/tools/pc-companion/
+2. After installation you will see window with 4 options. scr1
+3. Now hover your mouse over the option "Support Zone Now!" and click "Start". scr2
+4. Next plese wait, until your program Install a suitable additive.
+5. Afterwards from the window with 3 options choose "Phone / Tablet Software Update", and click "Start". scr3
+6. Then click to "repair my phone / tablet". scr9
+7. Accept all informations. scr4 scr5
+8. Now your program will run "preparing computer for software update". scr6
+8. Select your model. scr7
+9. After that you will see window with informations. scr8
+10. Follow the instructions, and connect your device into your Personal Computer.
+11. Success!
+
+
+
+
+

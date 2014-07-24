@@ -1,0 +1,283 @@
+kp250 factory rest 2945#*#
+Phone Service Menu Code
+8110 277634#*#
+8120 277634#*#
+8130 47328545454#
+8138 47328545454#
+8180 v10A 49857465454#
+8180 v11A 492662464663#
+8330 637664#*#
+8360 *6*41*12##
+8380 525252#*#
+8550 885508428679#*#
+u900 082065#*#
+u880 142358#*#
+ku311/l600v/ku800 63342425#*#
+Phone Unlock Menu Code
+Older phones 2945#*88110#
+
+ku990 Press and Hold Camera + Lock Button.
+..then write3845#*990#
+
+2945#*#
+277634#*#
+47328545454#
+
+lg ku 380
+code reset 3845#*380#
+
+2945#*380# reset factory
+
+some useful codes for u880
+
+*854#46
+277634#*# (TEST MENU)
+*748#96 (DEBUG)
+23#*#(SOME CRAP)
+U880 * 5 Power ON
+
+LG Chocolate =2945#*#
+
+lg kf700 =3845#*700#
+
+lg ku250 =26911147#*250#
+
+LG 900 v09e
+Citazione:
+TEST MENU: 277634#*#
+
+LG 900 v10b
+Citazione:
+TEST MENU: 082065#*#
+
+LG U970 Shine
+Citazione:
+TEST MENU: 26911147#*970#
+
+LG L600V
+Citazione:
+TEST MENU: 63342425#*#
+
+LG KU310
+Citazione:
+TEST MENU: 63342425#*#
+ENGINEER MODE: *72346#96
+
+LG KU800
+Citazione:
+TEST MENU: 26911147#*#
+
+LG KU830
+Citazione:
+TEST MENU: 26911147#*#
+
+LG KU950
+Citazione:
+TEST MENU: 7973845#*#
+ENGINEER MODE: 21738#96
+
+LG KU990
+Citazione:
+TEST MENU: 3845#*990#
+ENGINEER MODE: 364663#96
+MENU NCK: 2945#*990#
+
+F310 kF311 reset codes
+
+Test menu: 3845#*310#
+for kf311 3845#*311#
+engineer mode: 364663#31
+menu : 2945#*#
+
+LG KE850 ***** security
+
+without and with simcard: 1475369586#*# try this one too: 338464#*# ,then go Reset or restore default.
+
+LG KU800 reset code = 277634#*#
+
+kf311/310 =no sim inside
+3845#*310#
+
+KT520 user code reset =338464#*#
+
+LG KF700 Security Cod
+
+Tools:
+Google Search
+
+Procedure:
+Power On Phone w/o sim card
+Input 3845#*700#
+Test Mode will pop up (Screen shot Below)
+Just Hit Factory Reset
+Wait Phone to Reboot
+
+LG KG110 SECURITY CODE == 2945#*5101#
+
+Kp500 1809#*500#
+
+For Factory Reset try this code 1809#*500# without SIM card.
+
+LG U8110 277634#*#
+
+LG U8120 277634#*#
+
+LG U8120v105 47328545454#
+
+LG U8130 47328545454#
+
+LG U8138 47328545454#
+
+LG U8180v10A 49857465454#
+
+LG U8180v11A 492662464663#
+
+LG U8330 637664#*#
+
+LG U8360 *6*41*12##
+
+LG U8360 V.10D & V.10E *5*33*62##
+
+LG U8380 525252#*#
+
+LG U8550 885508428679#*#
+
+LG 8550 (italian Unlock Flash)v08j 2945#*#
+
+LG U880 U890 142358#*#
+
+LG U900 v09e 277634#*#
+
+LG U900 v10b 082065#*#
+
+LG U310 566366#*#
+
+LG U310 menu NCK815118#*#
+
+LG L600V 63342425#*#
+
+LG 8150 277634#*#
+
+LG 8210 ???? ??? ???????
+Citazione:
+277634#*#
+
+LG U250
+Citazione:
+TEST MENU: 26911147#*250#
+MENU NCK: 2945#*250#
+ENGINEER MODE: 3646633#96
+
+LG U310
+Citazione:
+TEST MENU: 566366#*#
+MENU NCK: 815118#*#
+ENGINEER MODE: *72346#96
+
+LG U450
+Citazione:
+MENU NCK: 2945#*450#
+ENGINEER MODE: *72346#96
+
+LG 880
+Citazione:
+TEST MENU: 142358#*#
+ENG MENU: *854#46
+
+LG 880 english version
+Citazione:
+*854#46
+
+LG 890
+Citazione:
+TEST MENU: 142358#*#
+
+LG 900 v09e
+Citazione:
+TEST MENU: 277634#*#
+
+LG 900 v10b
+Citazione:
+TEST MENU: 082065#*#
+
+LG U970 Shine
+Citazione:
+TEST MENU: 26911147#*970#
+
+LG L600V
+Citazione:
+TEST MENU: 63342425#*#
+
+LG KU310
+Citazione:
+TEST MENU: 63342425#*#
+ENGINEER MODE: *72346#96
+
+LG KU800
+Citazione:
+TEST MENU: 26911147#*#
+
+LG KU830
+Citazione:
+TEST MENU: 26911147#*#
+
+LG KU950
+Citazione:
+TEST MENU: 7973845#*#
+ENGINEER MODE: 21738#96
+
+LG KU990
+Citazione:
+TEST MENU: 3845#*990#
+ENGINEER MODE: 364663#96
+MENU NCK: 2945#*990#
+
+8110 & 8120 : 277634#*#
+U8130 & U8138 : 47328545454#
+8180 old sw : 49857465454#
+8180 new sw : 492662464663#
+8330 : 637664#*#
+8360 : *6*41*12##
+8380 : 525252#*#
+8550 : 885508428679#*#2945#*# 8550 unlocked
+885508428679#*# 8550 original
+
+26911147#*250# and reset factory
+LG C3100 press 2945#*3101#
+LG C3380 press 2945#*7101#
+LG F2300 press 2945#*7101#
+LG KE260 press 2945#*2601#
+LG KE970 press 2945#*9701#
+LG KG120 press 2945#*1201#
+LG KG220 press 2945#*1201#
+LG KG240 press 2945#*3311#
+LG KG280 press 2945#*7101#
+LG KG290 press 2945#*7101#
+LG KG800 press 2945#*7101#
+LG KP500 press 2945#*71101#
+LG KU250 press 2945#*250#
+LG KU380 press 2945#*380#
+LG KC910 press 2945#*910#
+hi all
+[reset code for Lg u250 / ku250 ]
+it’s only for who need it 26911147#* 250# and select factory reset ( without sim )
+ALL LG 2G : 2945#*#
+LG U8110 277634#*#
+LG U8120 277634#*#
+LG U8120v105 47328545454#
+LG U8130 47328545454#
+LG U8138 47328545454#
+LG U8180 v10A 49857465454#
+LG U8180 v11A 492662464663#
+LG U8330 637664#*#
+LG U8360 *6*41*12##
+LG U8360 V.10D & V.10E *5*33*62##
+LG U8380 525252#*#
+LG U8550 885508428679#*#
+LG 8550 (italian Unlock Flash)v08j 2945#*#
+LG U880 U890 142358#*#
+LG U900 v09e 277634#*#
+LG U900 v10b 082065#*#
+LG U310 566366#*#
+LG U310 menu NCK815118#*#
+LG L600V 63342425#*#

@@ -1,0 +1,45 @@
+HTC Desire - strzalka sie nie wczytuje
+HTC Desire 310 - nie ma w bazie
+HTC Desire 400 dual sim - nie ma w bazie
+HTC Desire 501 dual sim - nie ma w bazie
+HTC Desire 501 - nie ma w bazie
+HTC Desire 601 dual sim - nie ma w bazie
+HTC Desire 700 dual sim - nie ma w bazie
+
+LG G Pro 2
+LG Optimus L1 II Tri E475
+LG Optimus F3Q
+LG G2 mini
+LG GX F310L
+LG P712 Optimus L7 II
+LG D821 Nexus 5
+
+brakuje w alcatelu zdjecia fast boot
+ALCATEL OT-6030D Idol - brakuje zdjecia wyboru jezyka ogolnie do marki oraz tryb fastboot
+
+DIGICEL Coral 300 - nie czyta go z bazy
+DOCOMO F-05B - nie wczytuje go z bazy
+
+s51se - se nie ma go w bazie i potem jak bêdzie to opis trzeba zrobiæ.
+so-04D - to samo co wy¿ej
+SOL22 - the same
+Xperia AX (S0-01E)
+Xperia Ion kilka modeli brakuje
+
+
+
+09.05.14.
+NOKIA N-Gage QD - kiepskie foto, na necie s¹ lepsze
+NOKIA N93 - nie wczytuje zdjêæ w panelu administracyjnym z bazy
+
+12.05.14.
+NOKIA 6160i - niewyraŸne foto
+NOKIA 6162i - niewyraŸne foto
+
+27.05.14.
+
+PANASONIC 942P - nie wczytuje zdjêæ z bazy i na stronie bazatelefonow.pl nie ma fotek
+
+
+
+                                                                                       

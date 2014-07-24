@@ -1,0 +1,20 @@
+I think the following steps will help you.
+Press Menu
+Select Settings
+Select Security
+Select Factory reset (use 0000 as the security code)
+OK.
+Press Menu
+Select Navigation
+Select Current position to get the GPS location. The phone will show “Acquiring “on the screen.
+
+After acquiring process which takes 2- 10 minutes, the GPS co-ordinates will appear. At this stage you can go back to the main screen and you should be able to see “Thuraya + the country code“ if all has worked well.
+
+If not:
+
+Press Menu
+Select Network
+Search mode
+Select Manual
+OK and wait for about 5-20 minutes until you get “Thuraya”.
+Good luck bro!!

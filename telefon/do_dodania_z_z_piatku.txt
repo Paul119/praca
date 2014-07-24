@@ -1,0 +1,7 @@
+    Turn on your cell phone.
+    {{image1}}
+    Afterwards scroll to Settings, and locate option named Reset phone.
+    Enter your lock code, and press OK.
+    Good job!
+
+3 sposob

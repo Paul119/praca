@@ -1,0 +1,10 @@
+C820, C825, C700, C701, C707, C717, Elle-N3 set language to English: *#0044#
+C820, C825, C700, C701, C707, C717, Elle-N3 set language to Russian: *#0007#
+C820, C825, C700, C701, C707, C717, Elle-N3 set language to French: *#0033#
+E101, E207 software version: *#4837*#
+E101, E207 auto call test: *#2255*#
+E101, E207 memory status: *#6362*#
+E101, E207 reset menu: *#7378*# 
+
+###337*07# - master reset (with SIM)
+###847# - factory reset (with SIM)

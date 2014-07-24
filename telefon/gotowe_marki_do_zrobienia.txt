@@ -36,7 +36,11 @@ T-mobile dla ka¿dego fona pasuje szukaæ info, bo jest tego sporo :P
 
 5 fonow Thuraya - opis w notatniku
 
+15 TINNO - *#123456*#
 
+8 TORQ - http://androidforums.com/samsung-admire/570420-hard-reset.html
+
+Toshiba s¹ android pe³no i czasem sie znajdzie w³asny system :P
 
 Onda: przygotowane, zostaly tablety
 RovePc: przygotowane, ale czêsto ró¿ne s¹ opisy po rusku: http://hard-reset.ru/roverpc-models/
@@ -45,6 +49,7 @@ qmobile: nowe sie roznia
 Sharp: fony Android rózne metody
 oppo: zostaly android 4
 
+Skoñczone sprawdzanie na: transphone
 
 
 

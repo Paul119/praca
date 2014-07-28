@@ -1,7 +1,0 @@
-5.2.4. Resetowanie telefonu
-resetowanie
-Zresetowaæ telefon do orygina³u
-wartoœci (domyœlne). wpisaæ
-has³o telefonu i naciœnij <OK>.
-Resetuj wszystko
-Przywraca wszystkie ustawienia do telefonu i

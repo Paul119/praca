@@ -40,7 +40,41 @@ T-mobile dla ka¿dego fona pasuje szukaæ info, bo jest tego sporo :P
 
 8 TORQ - http://androidforums.com/samsung-admire/570420-hard-reset.html
 
+8 Unnecto - foler unnecto pdf strona 54
+
+4 Velocity - http://forum.gsmhosting.com/vbb/f98/velocity103-hard-reset-easyway-1205141/
+
+15 Verizon - http://www.ehow.com/how_7361691_reset-verizon-blitz.html
+http://www.verizonwireless.com/support/devices/knowledge_base.html/35372/
+http://www.howardforums.com/showthread.php/1349749-SMT5800-hard-reset -> locked phone
+
+11 Vertu - http://www.hard-reset.com/vertu-ascent-hard-reset.html
+
+5 Verykool - *#27#--sostenido el numeral del final . reset + https://www.youtube.com/watch?v=zw1bknw3y74 dla Android
+
+2 Videocon - http://www.your-mobile.org/videocon-a24-hard-reset.html + https://www.youtube.com/watch?v=TcQLthX6hoY dla Android
+
+1 viewsonic - pdf w folderze viewsonic strona 91
+
+1 Virgin - http://www.ehow.com/how_8321726_restore-settings-virgin-mobile-phone.html
+
+5 viva - w folderu, strona: 266
+
+1 Vivo - to samo co blue - http://www.hardreset.info/devices/blu/blu-vivo-43/
+
+62 Vk mobile - http://forum.gsmhosting.com/vbb/f25/vk-530-master-reset-234850/
+http://forum.gsmhosting.com/vbb/f25/vk-mobile-userlock-reset-code-855855-a-125320/
+http://forum.gsmhosting.com/vbb/f25/vk-reset-codes-241659/
+
+22 Konka - bardzo wazny pdf -> tam sa kody
+
+33 Voxtel - info w folderze - strona 21
+
+1 Vsun - http://peperonity.com/go/sites/mview/rajtheboss/22397449
+
 Toshiba s¹ android pe³no i czasem sie znajdzie w³asny system :P
+
+3 vtech - http://www.ehow.com/how_6955750_reset-vtech-cordless-phone.html
 
 Onda: przygotowane, zostaly tablety
 RovePc: przygotowane, ale czêsto ró¿ne s¹ opisy po rusku: http://hard-reset.ru/roverpc-models/
@@ -48,8 +82,9 @@ Spice: dla starych jest zrobione i jest ich sporo
 qmobile: nowe sie roznia
 Sharp: fony Android rózne metody
 oppo: zostaly android 4
+Vodafone: jakieœ s¹ zrobione + stare jest instrukcja w folderze :P strona: 56
 
-Skoñczone sprawdzanie na: transphone
+Skoñczone sprawdzanie na: vsun
 
 
 

@@ -1,0 +1,6 @@
+1. Turn off the phone 2. Press Volume up then power at the same time. You need to hold them both 
+3. Use volume keys to navigate and select Restore to factory and use Home button to select 
+4. Select wipe data and select reboot. After the reboot, your phone will now unlock the home screen 
+but all internal data has been deleted.
+
+

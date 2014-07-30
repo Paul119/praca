@@ -1,7 +1,3 @@
-Orange - http://forum.gsmhosting.com/vbb/f810/orange-barcelona-1478584/
-https://www.google.pl/search?q=hard+reset+ONN+K7&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:pl:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=xoJ0U8H0GoGX_Ab7kYCIBg#channel=sb&q=hard+reset+ORANGE+phone&rls=org.mozilla:pl:official
-
-
 PHAROS 565 PDA - http://go-gddq.com/down/2011-07/11071018277873.pdf
 
 qmobile - http://www.moremag.pk/2013/04/19/how-to-factory-reset-qmobile-noir-if-you-have-forgotten-the-lock/
@@ -36,11 +32,7 @@ T-mobile dla ka¿dego fona pasuje szukaæ info, bo jest tego sporo :P
 
 5 fonow Thuraya - opis w notatniku
 
-15 TINNO - *#123456*#
-
-8 TORQ - http://androidforums.com/samsung-admire/570420-hard-reset.html
-
-8 Unnecto - foler unnecto pdf strona 54
+8 Unnecto - folder unnecto pdf strona 54
 
 4 Velocity - http://forum.gsmhosting.com/vbb/f98/velocity103-hard-reset-easyway-1205141/
 
@@ -76,15 +68,48 @@ Toshiba s¹ android pe³no i czasem sie znajdzie w³asny system :P
 
 3 vtech - http://www.ehow.com/how_6955750_reset-vtech-cordless-phone.html
 
+4 Walton - http://forum.gsmhosting.com/vbb/f606/walton-primo-android-hard-reset-1610144/
+http://androidphonesolution.blogspot.com/2013/09/walton-primo-c1-hard-reset-done.html
+
+3 Wiko - http://www.123astuces.fr/pages/deverrouillage-telephone/hard-reset-wiko-cink.html
+
+5 Xiaomi - http://webcazine.com/10104/how-to-reset-all-settings-to-factory-default-on-xiaomi-redmi/
+
+12 Xolo - http://forum.gsmhosting.com/vbb/f838/xolo-a500-hard-reset-1647131/ Android
+
+5 Xplore - strony: 236 hard, soft: 21
+
+1 Xtouch - http://forum.gsmhosting.com/vbb/f781/xtouch-x405-hard-reset-done-1725521/
+
+1 Yakumo - http://www.hard-reset.com/yakumo-omikron-hard-reset.html
+
+2 Yota - http://clients.tyomaa.com/yota_ug/yota_0212.html
+
+2 yxtel - http://forum.gsmhosting.com/vbb/f781/yxtel-g905-sucsess-full-hard-reset-1712865/
+
+1 Zen - http://www.hard-reset.in/zen-303-hard-reset.html
+
+1 Zii - http://www.hardreset.eu/htc_trinity_%28p3600%29_hard_reset_soft_reset_en.html
+
+1 Zio - http://www.hard-reset.com/kyocera-zio-m6000-hard-reset.html
+
+11 Zonda - z pdf chinskie
+
+8 Zopo - http://forum.gsmhosting.com/vbb/f781/zopp-zp900-hard-reset-1731589/
+
+172 - ztc zrobic z ZTE
+
+40 Ztt = ZTE
+
 Onda: przygotowane, zostaly tablety
 RovePc: przygotowane, ale czêsto ró¿ne s¹ opisy po rusku: http://hard-reset.ru/roverpc-models/
 Spice: dla starych jest zrobione i jest ich sporo
-qmobile: nowe sie roznia
+qmobile: Andoid zosta³ :(
 Sharp: fony Android rózne metody
 oppo: zostaly android 4
 Vodafone: jakieœ s¹ zrobione + stare jest instrukcja w folderze :P strona: 56
 
-Skoñczone sprawdzanie na: vsun
+Skoñczone sprawdzanie telefonów :( Zosta³y tablety i modemy :P
 
 
 

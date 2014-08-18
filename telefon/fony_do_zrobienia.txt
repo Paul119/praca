@@ -1,4 +1,3 @@
-SAMSUNG G850f Galaxy Alpha
 NOKIA 130
 NOKIA 130 Dual SIM
 LG VS880 G Vista
@@ -6,3 +5,7 @@ SAMSUNG G800 Galaxy S5 mini Duos
 OPPO N1 mini
 PANASONIC Eluga U
 SAMSUNG G386T Galaxy Avant
+XIAOMI Redmi Note 4G
+ZTE Z777 Grand X
+InFocus M810
+IUNI U2

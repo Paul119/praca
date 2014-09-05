@@ -1,3 +1,3 @@
 ltc@gsmcenter.pl R1-R50
-ltc2@gmscenter.pl
+ltc2@gsmcenter.pl
 info@simlock.pl

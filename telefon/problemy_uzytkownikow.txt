@@ -1,0 +1,2 @@
+1. Jeœli zmieni³eœ has³o w telefonie Nokia, lub nie znacz obecnego has³a, to aby usunaæ obecne nale¿y wgraæ nowy firmware do Twojego telefonu. Mo¿esz to zrobiæ w komisie przy u¿yucie specjalnego boxa.
+2. Jeœli posiadasz nieoryginalne oprogramowanie w swoim telefonie, to jest wiêksze prawdopodobnieñstwo, ¿e po twardym resecie Twój telefon z³apie bootloop lub nie uruchomisz go ponownie.

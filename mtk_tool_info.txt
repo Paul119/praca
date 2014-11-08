@@ -1,0 +1,6 @@
+Step 1 – Enable USB debugging
+Step 2 – Install the PDANet USB ADB VCOM drivers
+Step 3 – Download, extract, and run the latest version of MTK Droid Tools.
+Step 4 – Your phone should be on at this point. Connect the data USB cable to your phone.
+
+Then upload your new software to your device.

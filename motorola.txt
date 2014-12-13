@@ -1,0 +1,35 @@
+1 sposób:
+
+Power off your device.
+Next press and hold Volume Up + Volume Down + Power button.
+If you see Android logo, then press Home key.
+Then select option "wipe data/factory reset" using Volume buttons to scroll, and Power button to confirm operation.
+Now choose from the menu option "Yes -- delete all user data".
+In the end confirm option "reboot system now".
+Done!
+
+MOTOROLA A855 Droid
+
+2 sposób:
+
+Switch off your cell phone.
+Then hold and press Volume Up + Volume Down + Power button until you see Android logo.
+Now press Home key to see Recovery options.
+From the menu select option "wipe data/factory reset" using Volume keys to navigate options, and Power button to accept.
+Afterwards confirm option "Yes -- delete all user data".
+Next choose "reboot system now".
+Good job!
+
+MOTOROLA A956 Droid 2 Global
+
+3 sposób:
+
+Turn off your phone.
+Now press and hold this buttons: Volume Up + Volume Down + Power button.
+When Android green man apper in your screen, then press Home button.
+Next select option "wipe data/factory reset" using Volume keys to hightlight option, and Power button to confirm.
+Then choose and confirm option "Yes -- delete all user data".
+After that to finish operation confirm option "reboot system now".
+Success!
+
+MOTOROLA CLIQ 2
